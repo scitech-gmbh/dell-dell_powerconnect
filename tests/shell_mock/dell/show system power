@@ -1,0 +1,11 @@
+
+Power Supplies:
+
+Unit  Description    Status     Average     Current          Since
+                                 Power       Power         Date/Time
+                                (Watts)     (Watts)
+----  -----------  -----------  ----------  --------  -------------------
+1     System       OK           90.8        90.6
+1     Internal(R)  OK           90.8        90.6      03/27/2015 22:24:40
+1     Internal(L)  No Power      0.0         0.0      01/01/1970 00:00:00
+

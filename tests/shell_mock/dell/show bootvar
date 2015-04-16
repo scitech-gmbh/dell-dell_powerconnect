@@ -1,0 +1,13 @@
+
+Image Descriptions
+
+ active :
+ backup :
+
+
+ Images currently available on Flash
+
+unit  active       backup       current-active     next-active
+----- ------------ ------------ ----------------- -----------------
+1     6.0.1.3      6.0.1.3      6.0.1.3            6.0.1.3
+

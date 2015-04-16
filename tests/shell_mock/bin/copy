@@ -1,0 +1,16 @@
+#!/bin/bash
+cat <<EOF
+
+
+Transfer Mode.................................. Binary
+Data Type...................................... Config Script
+Source Filename................................ $2
+Management access will be blocked for the duration of the transfer
+EOF
+read -p "Are you sure you want to start? (y/n) " yn
+cat <<EOF
+
+
+Copy operation sucessfull!
+
+EOF

@@ -1,0 +1,10 @@
+#!/bin/bash
+if test -e "$HOME/dell/show $*"; then
+	cat "$HOME/dell/show $*"
+else
+	cat <<EOF
+              ^
+% Invalid input detected at '^' marker.
+
+EOF
+fi
